@@ -5,5 +5,5 @@ Upon looking for free datasets with sports/football data, I came across www.foot
 
 The data was wrangled in R and graphed using ggplot2 and ggalt. 
 
-![alt text](football-max-min-odds/dumbell plot.png)
+![alt text]( Football-Max-Min-Odds/Dumbell Plot.png )
 
