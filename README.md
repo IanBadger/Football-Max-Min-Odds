@@ -7,3 +7,5 @@ The data was wrangled in R and graphed using ggplot2 and ggalt.
 
 ![dumbell plot](https://user-images.githubusercontent.com/42275367/47259645-59232280-d4a4-11e8-9ac5-b8475ec313fa.png)
 
+So, did the bookies get it right? On the balance, probably just about. For the lowest minimum odds, the teams at the top had the lower odds, the teams that struggled had longer odds. There were a few outliers worth mentioning, Ipswich outperformed what the bookies thought, and Burton should have finished rock bottom but actually put up a decent fight while Sunderland had a nightmare season. The maximum average odds were loss consistent, maybe as a result of bookmakers trying to entice punters in with bigger odds from time to time. 
+Norwich performed worse than their odds suggested. Brentford had the tightest spread of odds, suggesting they maybe should have finished higher in the table. 
