@@ -1,4 +1,3 @@
-setwd("C:/Users/iandb/OneDrive/Documents/")
 Footy <- read.csv("Championship.csv", header = TRUE, sep = ",")
 library(ggplot2)
 
@@ -63,3 +62,7 @@ gg <- gg + theme(plot.caption=element_text(size=8, margin=margin(t=24)))
 gg <- gg + theme(axis.text = element_text(colour = "black"))
 gg
 
+#Sorts by AVmin, adds final position for reference
+Dumb_df <- Dumb_df[order(Avmin),]
+Dumb_df$HomeTeam <- factor(Dumb_df$HomeTeam, as.character(Dumb_df$HomeTeam))
+Dumb_df$HomeTeam <- paste(Dumb_df$HomeTeam, "(", Dumb_df$FinalPos,")")
