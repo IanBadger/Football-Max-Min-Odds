@@ -12,6 +12,6 @@ Norwich performed worse than their odds suggested. Brentford had the tightest sp
 
 The next step was to reorder the teams per the minimum average odds with actual finishing positions shown in brackets. 
 
-![Dumbell Avg min order](https://github.com/IanBadger/Football-Max-Min-Odds/blob/master/Dumbell%20Avg%20min%20order.png)
+![dumbell min avg](https://user-images.githubusercontent.com/42275367/47674992-99735680-dbb0-11e8-995b-9db0a18900c3.png)
 
-Again Burton stand out as outperforming the bookies predictions, whether backing Burton would have produced in profit is a different matter. 
+Again Burton stand out as outperforming the bookies predictions, whether backing Burton would have produced in profit is a different matter. Norwich again stand out as performing poorly compared to their odds. While further down the chart, Millwall and Preston had finishing positions higher then the bookies would have predicted
